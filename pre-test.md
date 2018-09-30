@@ -1,8 +1,3 @@
-#### 3번까지의 문제 답
-https://repl.it/@moojigae/no1
-
-
-
 ## 문제 1
 
 두 수 `x`, `y`를 입력받아 큰 수를 반환하는 함수(larger)를 작성하세요.
@@ -12,6 +7,8 @@ https://repl.it/@moojigae/no1
 ```js
 larger(4, 12); // 결과: 12
 ```
+
+repl : https://repl.it/@moojigae/pre-test-1
 
 ## 문제 2
 
@@ -31,6 +28,8 @@ isPositive('열다섯', 10, 2) // 에러: Error: 입력값이 잘못되었습니
 throw new Error('입력값이 잘못되었습니다.');
 ```
 
+링크 : https://repl.it/@moojigae/pre-test-2
+
 ## 문제 3
 
 어떤 숫자(num)가 짝수인지 홀수인지 출력하는 함수(printEvenOdd)를 작성하세요.
@@ -41,6 +40,8 @@ throw new Error('입력값이 잘못되었습니다.');
 printEvenOdd(5) // 출력: '5: 홀수'
 printEvenOdd(10) // 출력: '10: 짝수'
 ```
+
+repl : https://repl.it/@moojigae/pre-test-3
 
 ## 문제 3-1
 
@@ -76,6 +77,8 @@ printEvenOdd20();
 */
 ```
 
+repl : https://repl.it/@moojigae/pre-test-31
+
 ## 문제 4
 
 세 수를 입력받아 큰 것부터 차례대로 출력하는 함수(printLargerFirst)를 작성하세요.
@@ -97,6 +100,8 @@ insensitiveEqual('hello', 'hello'); // 반환값: true
 insensitiveEqual('hello', 'Hello'); // 반환값: true
 insensitiveEqual('hello', 'world'); // 반환값: false
 ```
+
+repl : https://repl.it/@moojigae/pre-test-5
 
 ## 문제 6
 
